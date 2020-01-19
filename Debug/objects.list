@@ -1,0 +1,6 @@
+"drivers/src/stm32f446xx_gpio_driver.o"
+"drivers/src/stm32f446xx_i2c_driver.o"
+"drivers/src/stm32f446xx_spi_driver.o"
+"src/007Arduino_RXonly.o"
+"startup/startup_stm32.o"
+"startup/sysmem.o"
